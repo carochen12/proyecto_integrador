@@ -13,14 +13,14 @@
 
 ## Integrante
 
-- **Carolina Chen** 
+- **Carolina Lisha Chen Ou** 
 
 ---
 
 ## Datos Académicos
 
 - **Trimestre:** Segundo trimestre  
-- **Periodo Académico:** 2025 - 2026 I  
+- **Periodo Académico:** 2025 - 2026   
 - **Fecha de entrega:** 1 de marzo de 2026  
 
 ---
