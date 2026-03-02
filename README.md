@@ -11,6 +11,8 @@ El desarrollo del software se realizó aplicando conceptos fundamentales de prog
 
 El programa se ejecuta desde la **terminal** y permite realizar múltiples partidas, mostrando al final un resumen general con los resultados obtenidos.
 
+Video Demostrativo:https://youtu.be/L1eUVtiPn6Y
+
 ---
 
 ## Objetivo General
@@ -115,13 +117,6 @@ Se realizaron pruebas funcionales para verificar:
 
 ```bash
 python juego.py
-
 ---
-
-## Video Demostrativo
-
-### Video:
-
-https://youtu.be/L1eUVtiPn6Y
 
 
