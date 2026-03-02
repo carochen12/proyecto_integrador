@@ -3,6 +3,28 @@
 
 ---
 
+## 📘 Información General
+
+- **Asignatura:** Lógica de Programación  
+- **Carrera:** Ingeniería en Inteligencia Artificial 
+- **Institución:** Universidad Internacional del Ecuador
+- **Docente:** Lilian Marlene Aman Ramos 
+---
+
+## 👥 Integrante
+
+- **Carolina Chen** 
+
+---
+
+## 🎓 Datos Académicos
+
+- **Trimestre:** Segundo trimestre  
+- **Periodo Académico:** 2025 - 2026 I  
+- **Fecha de entrega:** 1 de marzo de 2026  
+
+---
+
 ## Descripción del Proyecto
 
 Este proyecto consiste en el desarrollo de un programa en **Python** que simula el juego clásico **Piedra, Papel o Tijera**, permitiendo que dos jugadores ingresen sus elecciones y que el sistema determine automáticamente el ganador de cada ronda.
