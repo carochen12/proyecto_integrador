@@ -129,16 +129,15 @@ Se realizaron pruebas funcionales para verificar:
 
 ---
 
-## Ejecución del Programa
+## Resultados
 
-### Requisitos:
+El programa muestra:
 
-- Python 3 instalado.
+- Total de partidas jugadas  
+- Lista completa de resultados  
+- Mensaje final de cierre  
 
-### Ejecución:
 
-```bash
-python juego.py
----
+
 
 
