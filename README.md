@@ -116,3 +116,12 @@ Se realizaron pruebas funcionales para verificar:
 ```bash
 python juego.py
 
+---
+
+## Video Demostrativo
+
+### Video:
+
+https://youtu.be/L1eUVtiPn6Y
+
+
