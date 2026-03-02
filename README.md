@@ -3,7 +3,7 @@
 
 ---
 
-## 📘 Información General
+## Información General
 
 - **Asignatura:** Lógica de Programación  
 - **Carrera:** Ingeniería en Inteligencia Artificial 
@@ -11,13 +11,13 @@
 - **Docente:** Lilian Marlene Aman Ramos 
 ---
 
-## 👥 Integrante
+## Integrante
 
 - **Carolina Chen** 
 
 ---
 
-## 🎓 Datos Académicos
+## Datos Académicos
 
 - **Trimestre:** Segundo trimestre  
 - **Periodo Académico:** 2025 - 2026 I  
